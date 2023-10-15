@@ -16,10 +16,10 @@ export default function PrivacyPolicy() {
             <h2>Last Updated: 15 Oct, 2023</h2>
 
             <p>
-              Artify is committed to ensuring the privacy and security of our
-              users. Our app does not collect any personal data from users. We
-              do not require authentication or any personal information for the
-              use of our service.
+              Text to Image is committed to ensuring the privacy and security of
+              our users. Our app does not collect any personal data from users.
+              We do not require authentication or any personal information for
+              the use of our service.
             </p>
 
             <p>
@@ -27,8 +27,8 @@ export default function PrivacyPolicy() {
             </p>
 
             <p>
-              Artify does not collect, store, or share any user-provided data.
-              The text input provided by the user for generating images is
+              Text to Image does not collect, store, or share any user-provided
+              data. The text input provided by the user for generating images is
               processed within the app, and no information is stored or
               transmitted to any external servers.
             </p>
@@ -38,8 +38,8 @@ export default function PrivacyPolicy() {
             </p>
 
             <p>
-              Artify does not use any tracking mechanisms, including cookies, to
-              gather information about our users.
+              Text to Image does not use any tracking mechanisms, including
+              cookies, to gather information about our users.
             </p>
 
             <p>
