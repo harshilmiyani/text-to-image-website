@@ -29,7 +29,11 @@ const Hero = () => {
                   visual representations.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
-                  <Link href="/">
+                  <Link
+                    href="https://play.google.com/store/apps/details?id=com.fintrack.texttoimage"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
                     <Image
                       src="/images/social/google-play-badge.svg"
                       alt="logo"
